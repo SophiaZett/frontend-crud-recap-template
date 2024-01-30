@@ -7,6 +7,7 @@ export default function IndexPage({ recipes = [] }) {
       ) : (
         <>
           <p>Those are my fav recipes!</p>
+          <p>test</p>
         </>
       )}
     </>
